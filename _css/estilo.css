@@ -108,8 +108,9 @@ div#conteudo div#secundario {
 	margin-left: 7.5px;
 }
 
-img .conteudoLateral {
-	width: 260px;
+
+.imgLateral {
+	width: 170px;
 	margin-left: 5px;
 }
 
@@ -167,7 +168,6 @@ p {
 }
 
 /*===================== ESTILIZANDO RODAPÉ ===================== */
-
 div#rodape {
 	background-color: #294c71;
 }
